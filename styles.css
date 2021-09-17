@@ -75,6 +75,7 @@ button img{
 .article{
     width:75%;
     font-family: 'EB Garamond', serif;
+    font-size: 20px;
 }
 
 .article-title{
@@ -89,7 +90,7 @@ button img{
 }
 
 .article-body{
-
+    
 }
 
 .article-body li{
