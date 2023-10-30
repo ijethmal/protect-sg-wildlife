@@ -1,1 +1,12 @@
-{}
+{
+    "name": "digitalocean-apps/protect-sg-wildlife",
+    "description": "app for poly forum 2021",
+    "type": "project",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "ijethmal"
+        }
+    ]
+}
